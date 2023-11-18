@@ -46,7 +46,7 @@ We implemented an SMS module, an SMS Purse to test the idea and get feedback.
    2. If the trasaction related gateway or Community Nodes be evil, random verifier will report and  get the reward which slashed from evil's stake.
 4. The last Killer Characteristics
    1. One key Social recovery with daily limitation and low cost.
-   2. Slash the evil nodes if verify failed.
+   2. Slash the evil nodes if verified failed or conspiracy.
 
 
 #### How to use?
@@ -55,9 +55,9 @@ We can use the SMS module with conception product now.
 
 1. Website: show a decentralized gateway list, or you can find gateways by p2p protocol
 2. Use your mobile send a message to gateway: create account or click create account with your mobile on the website!
-3. Then you will get a message: account created succesfully!
-4. [Assume you have a AA with 137%&^,  your firends has 136^&* or address 0x*&^%#] Type "send 10u to 136 ^%&" in your mobile, send sms to any decntralized gateway(you can find in DApp homepage)
+3. Then you will get a message: account created successfully!
+4. [Assume you have a AA with 137%&^,  your firends has 136^&* or address 0x*&^%#] Type "send 10u to 136 ^%&" in your mobile, send sms to any decentralized gateway(you can find in DApp homepage)
 5. If be finished, you and your friend will get the result: Transfer successfully 
 6. DApp operation: (picture)
-   1. Who has no AirAcount can transfer tokens to any AirAcount using DApp
+   1. Who has no AirAccount can transfer tokens to any AirAccount using DApp
    2. Who has AirAccount can transfer to any other AirAccount
