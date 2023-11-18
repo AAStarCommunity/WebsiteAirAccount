@@ -30,3 +30,5 @@ We implemented an SMS module, an SMS Purse to test the idea and get feedback.
 3. Large secondary validation(2FA) with your second mobile or second Email.
 4. Every transaction with signatures and verifications by Gateways or Community Nodes who will stake.
 5. Random number send by users and verified by random gateway and Community Nodes.
+6. One key Social Recovery with Community Nodes being Guardians on a Layer2.5 with low cost.
+7. More question or thoughts just touch our team...
