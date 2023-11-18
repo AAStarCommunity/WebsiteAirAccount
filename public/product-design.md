@@ -69,3 +69,9 @@ We can use the SMS module with conception product now.
 1. You can **fork**  or use **SDK** solution to build amazing wallet based on AA, like Email wallet, Application specified Wallet and more.
 2. You can benefit from our **Decentralized** Gateway and Community Nodes **Network** with security and convenience.
 3. We will support linking with any other AA wallet to provide AirAccount Services: **Easy, Affordable and Security** in the future.
+
+-----
+1. Adapters OK
+2. Gateway, use sim800c SDK(try 900a failed)
+3. Community Node, should run APIs for local test
+4. Initial scripts should be done first
