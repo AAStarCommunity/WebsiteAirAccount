@@ -1,5 +1,6 @@
 **AirAccount Product Design**
 
+##### AirAccount is an Ethereum application account framework built on Account Abstraction.
 #### Why build AirAccount?
 Gap and Benefits: there are so many barriers for Normal Guys to the Blockchain:
 
