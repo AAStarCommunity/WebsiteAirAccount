@@ -61,3 +61,10 @@ We can use the SMS module with conception product now.
 6. DApp operation: (picture)
    1. Who has no AirAccount can transfer tokens to any AirAccount using DApp
    2. Who has AirAccount can transfer to any other AirAccount
+
+
+#### For developers
+
+1. You can **fork**  or use **SDK** solution to build amazing wallet based on AA, like Email wallet, Application specified Wallet and more.
+2. You can benefit from our **Decentralized** Gateway and Community Nodes **Network** with security and convenience.
+3. We will support linking with any other AA wallet to provide AirAccount Services: **Easy, Affordable and Security** in the future.
