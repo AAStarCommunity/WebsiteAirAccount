@@ -23,3 +23,10 @@ It is a Basic **Interface** for any Instructions from Any Network to the Blockch
 
 We implemented an SMS module, an SMS Purse to test the idea and get feedback.
 
+#### Does it security?
+
+1. Balance Alert in customization channels(SMS, Email and more).
+2. Daily limitation in you EIP4337 Wallet Contract.
+3. Large secondary validation(2FA) with your second mobile or second Email.
+4. Every transaction with signatures and verifications by Gateways or Community Nodes who will stake.
+5. Random number send by users and verified by random gateway and Community Nodes.
