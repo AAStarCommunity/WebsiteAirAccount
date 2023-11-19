@@ -100,6 +100,11 @@ send "create" to adapters
 send "transfer 0.01 to 8613805720368" to adapters
 send "query" to adapters
 
+user sends SMS:
+https://www.youtube.com/shorts/cRzjKSqJPiE
+adapter run:
+https://youtu.be/ZxjoZODtplU
+
 
 Bind result:
 0x0Af8828AFdCA47e6E7C570a41Efb763c9b5E3a96
