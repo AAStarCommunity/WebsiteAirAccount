@@ -37,7 +37,7 @@ send "query" to adapters
 Bind result:
 0x0Af8828AFdCA47e6E7C570a41Efb763c9b5E3a96
 0xda55b66a6d0b089a374d7b99e14ab67421c292e5060c3bb3e484410ceccd3d42
-User in China: 8613805720368 0x1E22bb49c70E9c6D5106d572C5646C64dC8D2CA0
+User in China: 861380555555 0x1E22bb49c70E9c6D5106d572C5646C64dC8D2CA0
 0x03c9e0c3b5e0fc56d875cf487f414ec0a7413b052ff371711305c78cf2665cfd
 
 Manually transfer to 0x0Af8828AFdCA47e6E7C570a41Efb763c9b5E3a96 0.05ETH(Seplia)
@@ -47,7 +47,7 @@ Gateway:
 2. transfer 0.01 
 ```
 {
-  "receiver": "8613805720368",
+  "receiver": "8613805555555",
   "value": "0.01"
 }
 ```
@@ -60,7 +60,7 @@ or
 use gateway query
 
 
-Random SMS Adapter(fake): 8619858103329
+Random SMS Adapter(fake): 8619858888888
 
 0xf94603688eba64993493595c24868b470cf2e82b898443c7297e7a04f57f85a0
 
