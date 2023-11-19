@@ -17,9 +17,9 @@ Clear db old data
 
 http://localhost:8000/swagger/index.html
 
-User in Istanbul: 8613675883500 
+User in Istanbul: 86136758888 
 send "create" to adapters
-send "transfer 0.01 to 8613805720368" to adapters
+send "transfer 0.01 to 861380555555" to adapters
 send "query" to adapters
 
 #### Quick view
