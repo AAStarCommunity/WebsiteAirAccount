@@ -29,6 +29,18 @@ export default function Home() {
           </span>{' '}
           built on Account Abstraction.
         </h1>
+        <div
+          style={{
+            marginTop: 100,
+          }}
+        >
+          <img
+            src="/arch.jpeg"
+            style={{
+              width: '100%',
+            }}
+          />
+        </div>
       </div>
     </main>
   );
