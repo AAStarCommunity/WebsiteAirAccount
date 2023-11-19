@@ -6,9 +6,9 @@ export default function Home() {
       <header className="py-10">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <img
-            src="/airaccount.png"
+            src="/logo.jpeg"
             style={{
-              height: 50,
+              height: 200,
             }}
           />
         </div>
