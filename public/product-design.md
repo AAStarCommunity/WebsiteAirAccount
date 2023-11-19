@@ -76,3 +76,59 @@ We can use the SMS module with conception product now.
 2. Gateway, use sim800c SDK(try 900a failed)
 3. Community Node, should run APIs for local test
 4. Initial scripts should be done first
+
+-----
+
+### Quick view
+
+ Three repositories
+ https://github.com/AAStarCommunity/Adapters/tree/main
+ https://github.com/AAStarCommunity/Gateway/tree/main
+ https://github.com/AAStarCommunity/CommunityNode
+ 
+ TODO:
+ Service Contract(this time we build based on Etherspot SDK)
+
+Run 
+npm run execute batch-create 5
+Clear db old data
+
+http://localhost:8000/swagger/index.html
+
+User in Istanbul: 8613675883500 
+send "create" to adapters
+send "transfer 0.01 to 8613805720368" to adapters
+send "query" to adapters
+
+
+Bind result:
+0x0Af8828AFdCA47e6E7C570a41Efb763c9b5E3a96
+0xda55b66a6d0b089a374d7b99e14ab67421c292e5060c3bb3e484410ceccd3d42
+User in China: 8613805720368 0x1E22bb49c70E9c6D5106d572C5646C64dC8D2CA0
+0x03c9e0c3b5e0fc56d875cf487f414ec0a7413b052ff371711305c78cf2665cfd
+
+Manually transfer to 0x0Af8828AFdCA47e6E7C570a41Efb763c9b5E3a96 0.05ETH(Seplia)
+
+Gateway: 
+1. balance query confirm
+2. transfer 0.01 
+```
+{
+  "receiver": "8613805720368",
+  "value": "0.01"
+}
+```
+3. balance query with output ophash
+0xe44527b04387f8e20cf4bc78dbb35bee43811ca84c4435047cdf22608ccb1d0d
+
+4. https://sepolia.etherscan.io/
+query on-chain balance 
+or
+use gateway query
+
+
+Random SMS Adapter(fake): 8619858103329
+
+0xf94603688eba64993493595c24868b470cf2e82b898443c7297e7a04f57f85a0
+
+https://docs.google.com/presentation/d/1Iq-Nkw-e5mdOQ3kqHmAgnlYE-f0cyx0hak-UBn6gt6A/edit?usp=sharing
