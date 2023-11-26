@@ -1,4 +1,7 @@
 ### Quick view
+Here we are:
+https://ethglobal.com/showcase/airaccount-swqix
+We demoed at the Istanbul Hackathon!
 
  AirAccount three repositories:
  
