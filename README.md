@@ -85,7 +85,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 5. Test in real SMS
 6. All above is in Spolia Testnet
 
-### How to AirAccount's infra to build your own Account?
+### How to build your Account based on AirAccount's infra?
 1. Submit an issue, tell us your application flow, and more
 2. follow the Application Account Repo to run the demo(under construction)
 3. Cooperation with AirAcount Dev team
